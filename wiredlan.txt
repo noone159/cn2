@@ -1,3 +1,6 @@
+802.3
+
+
 set ns [new Simulator]
 
 set tr [open "LAN.tr" w]
